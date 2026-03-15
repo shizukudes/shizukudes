@@ -1,18 +1,32 @@
 # 👋 Hi, I'm @shizukudes
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABS-X/ABS-X/main/assets/banner.gif" width="100%" />
 </p>
 
-### 💻 About Me
-- 🛡️ **Focus**: Specialized in VPN protocols and Network Engineering.
-- 📱 **Android**: Developer of high-performance networking tools.
-- 🦀 **Native**: Proficient in C++ and Go for core system development.
-- ⚡ **Current Work**: Integrating advanced tun2socks engines into mobile apps.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shizukudes&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <a href="https://t.me/DAMNwhOkNows" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@DAMNwhOkNows-blue.svg?logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+### 💻 Tentang Saya / About Me
+- 🇮🇩 **Lokasi**: Indonesia.
+- 🛡️ **Fokus**: Spesialis protokol VPN dan *Network Engineering*.
+- 📱 **Android**: Pengembang alat jaringan berperforma tinggi.
+- 🦀 **Native**: Menguasai C++ dan Go untuk pengembangan sistem inti (*core*).
+- ⚡ **Pekerjaan Saat Ini**: Mengintegrasikan *engine* tun2socks canggih ke aplikasi mobile.
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shizukudes&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 Statistik GitHub / GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shizukudes&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizukudes&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
@@ -31,9 +45,9 @@
 
 ---
 
-### 🚀 Featured Repositories
-- [**ClashMetaForAndroid-Hysteria**](https://github.com/shizukudes/ClashMetaForAndroid-Hysteria): Advanced Clash client with custom Hysteria integration.
-- [**zivpn-xsocks-core**](https://github.com/shizukudes/zivpn-xsocks-core): Native core for high-performance tunneling.
+### 🚀 Repositori Unggulan / Featured Repos
+- [**ClashMetaForAndroid-Hysteria**](https://github.com/shizukudes/ClashMetaForAndroid-Hysteria): Klien Clash tingkat lanjut dengan integrasi custom Hysteria.
+- [**zivpn-xsocks-core**](https://github.com/shizukudes/zivpn-xsocks-core): Native core untuk tunneling performa tinggi.
 
 ---
 
@@ -41,4 +55,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shizukudes&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-📫 How to reach me: **Let's build something fast and secure.**
+📫 Hubungi saya: **[Telegram @DAMNwhOkNows](https://t.me/DAMNwhOkNows)**
