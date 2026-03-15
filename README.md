@@ -14,15 +14,6 @@
 - 🇮🇩 **Location**: Indonesia.
 - 🛡️ **Focus**: Specialized in VPN protocols and Network Engineering.
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shizukudes&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shizukudes&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
