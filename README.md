@@ -12,10 +12,7 @@
 
 ### 💻 Tentang Saya / About Me
 - 🇮🇩 **Lokasi**: Indonesia.
-- 🛡️ **Fokus**: Spesialis protokol VPN dan *Network Engineering*.
-- 📱 **Android**: Pengembang alat jaringan berperforma tinggi.
-- 🦀 **Native**: Menguasai C++ dan Go untuk pengembangan sistem inti (*core*).
-- ⚡ **Pekerjaan Saat Ini**: Mengintegrasikan *engine* tun2socks canggih ke aplikasi mobile.
+- 🛡️ **Fokus**: Spesialis protokol VPN dan Network Engineering.
 
 ---
 
