@@ -10,9 +10,9 @@
   </a>
 </p>
 
-### 💻 Tentang Saya / About Me
-- 🇮🇩 **Lokasi**: Indonesia.
-- 🛡️ **Fokus**: Spesialis protokol VPN dan Network Engineering.
+### 💻 About Me
+- 🇮🇩 **Location**: Indonesia.
+- 🛡️ **Focus**: Specialized in VPN protocols and Network Engineering.
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 Statistik GitHub / GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shizukudes&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizukudes&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
@@ -42,9 +42,9 @@
 
 ---
 
-### 🚀 Repositori Unggulan / Featured Repos
-- [**ClashMetaForAndroid-Hysteria**](https://github.com/shizukudes/ClashMetaForAndroid-Hysteria): Klien Clash tingkat lanjut dengan integrasi custom Hysteria.
-- [**zivpn-xsocks-core**](https://github.com/shizukudes/zivpn-xsocks-core): Native core untuk tunneling performa tinggi.
+### 🚀 Featured Repositories
+- [**ClashMetaForAndroid-Hysteria**](https://github.com/shizukudes/ClashMetaForAndroid-Hysteria): Advanced Clash client with custom Hysteria integration.
+- [**zivpn-xsocks-core**](https://github.com/shizukudes/zivpn-xsocks-core): Native core for high-performance tunneling.
 
 ---
 
@@ -52,4 +52,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shizukudes&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-📫 Hubungi saya: **[Telegram @DAMNwhOkNows](https://t.me/DAMNwhOkNows)**
+📫 Contact me: **[Telegram @DAMNwhOkNows](https://t.me/DAMNwhOkNows)**
